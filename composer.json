@@ -1,0 +1,15 @@
+{
+    "name": "vendor/eplast",
+    "description": "Description of project eplast.",
+    "authors": [
+        {
+            "name": "IA-NQ",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "semantic/ui": "2.0.7",
+        "components/jquery": "2.1.4",
+        "phpmailer/phpmailer": "v5.2.10"
+    }
+}
